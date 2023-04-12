@@ -1,0 +1,1 @@
+This project involves the analysis of a cancer data in R programming language. performed a t-test to check a relationship between cancer and bmi and chi-square test to between cancer and daily consumption of fruits
